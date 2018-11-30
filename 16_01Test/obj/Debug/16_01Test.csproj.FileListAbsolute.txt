@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\obj\Debug\16_01Test.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\obj\Debug\16_01Test.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\bin\Debug\16_01Test.exe.config
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\bin\Debug\16_01Test.exe
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\bin\Debug\16_01Test.pdb
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\obj\Debug\16_01Test.exe
+D:\VisualStudios\IBZ_Übungen_403\16_01Test\obj\Debug\16_01Test.pdb

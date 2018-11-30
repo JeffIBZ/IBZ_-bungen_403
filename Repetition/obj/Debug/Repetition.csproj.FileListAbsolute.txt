@@ -1,0 +1,6 @@
+D:\VisualStudios\IBZ_Übungen_403\Repetition\obj\Debug\Repetition.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Repetition\bin\Debug\Repetition.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Repetition\bin\Debug\Repetition.exe
+D:\VisualStudios\IBZ_Übungen_403\Repetition\bin\Debug\Repetition.pdb
+D:\VisualStudios\IBZ_Übungen_403\Repetition\obj\Debug\Repetition.exe
+D:\VisualStudios\IBZ_Übungen_403\Repetition\obj\Debug\Repetition.pdb

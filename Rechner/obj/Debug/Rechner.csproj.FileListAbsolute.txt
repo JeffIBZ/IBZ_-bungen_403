@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\Rechner\obj\Debug\Rechner.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\Rechner\obj\Debug\Rechner.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Rechner\bin\Debug\Rechner.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Rechner\bin\Debug\Rechner.exe
+D:\VisualStudios\IBZ_Übungen_403\Rechner\bin\Debug\Rechner.pdb
+D:\VisualStudios\IBZ_Übungen_403\Rechner\obj\Debug\Rechner.exe
+D:\VisualStudios\IBZ_Übungen_403\Rechner\obj\Debug\Rechner.pdb

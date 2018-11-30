@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\obj\Debug\Calculator_Func.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\obj\Debug\Calculator_Func.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\bin\Debug\Calculator_Func.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\bin\Debug\Calculator_Func.exe
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\bin\Debug\Calculator_Func.pdb
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\obj\Debug\Calculator_Func.exe
+D:\VisualStudios\IBZ_Übungen_403\Calculator_Func\obj\Debug\Calculator_Func.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudios\IBZ_Übungen_403\WhileSchleife\obj\Debug\WhileSchleife.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\WhileSchleife\bin\Debug\WhileSchleife.exe.config
+D:\VisualStudios\IBZ_Übungen_403\WhileSchleife\bin\Debug\WhileSchleife.exe
+D:\VisualStudios\IBZ_Übungen_403\WhileSchleife\bin\Debug\WhileSchleife.pdb
+D:\VisualStudios\IBZ_Übungen_403\WhileSchleife\obj\Debug\WhileSchleife.exe
+D:\VisualStudios\IBZ_Übungen_403\WhileSchleife\obj\Debug\WhileSchleife.pdb

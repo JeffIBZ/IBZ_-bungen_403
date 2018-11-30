@@ -1,0 +1,6 @@
+D:\VisualStudios\IBZ_Übungen_403\SchleifenBeispiel\bin\Debug\SchleifenBeispiel.exe.config
+D:\VisualStudios\IBZ_Übungen_403\SchleifenBeispiel\bin\Debug\SchleifenBeispiel.exe
+D:\VisualStudios\IBZ_Übungen_403\SchleifenBeispiel\bin\Debug\SchleifenBeispiel.pdb
+D:\VisualStudios\IBZ_Übungen_403\SchleifenBeispiel\obj\Debug\SchleifenBeispiel.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\SchleifenBeispiel\obj\Debug\SchleifenBeispiel.exe
+D:\VisualStudios\IBZ_Übungen_403\SchleifenBeispiel\obj\Debug\SchleifenBeispiel.pdb

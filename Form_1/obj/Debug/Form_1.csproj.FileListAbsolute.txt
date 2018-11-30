@@ -1,0 +1,10 @@
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.Form1.resources
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.Properties.Resources.resources
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.csproj.GenerateResource.Cache
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Form_1\bin\Debug\Form_1.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Form_1\bin\Debug\Form_1.exe
+D:\VisualStudios\IBZ_Übungen_403\Form_1\bin\Debug\Form_1.pdb
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.exe
+D:\VisualStudios\IBZ_Übungen_403\Form_1\obj\Debug\Form_1.pdb

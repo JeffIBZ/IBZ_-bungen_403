@@ -1,0 +1,6 @@
+D:\VisualStudios\IBZ_Übungen_403\OperatorenSchleife\bin\Debug\OperatorenSchleife.exe.config
+D:\VisualStudios\IBZ_Übungen_403\OperatorenSchleife\bin\Debug\OperatorenSchleife.exe
+D:\VisualStudios\IBZ_Übungen_403\OperatorenSchleife\bin\Debug\OperatorenSchleife.pdb
+D:\VisualStudios\IBZ_Übungen_403\OperatorenSchleife\obj\Debug\OperatorenSchleife.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\OperatorenSchleife\obj\Debug\OperatorenSchleife.exe
+D:\VisualStudios\IBZ_Übungen_403\OperatorenSchleife\obj\Debug\OperatorenSchleife.pdb

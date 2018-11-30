@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\obj\Debug\Operator_1.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\obj\Debug\Operator_1.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\bin\Debug\Operator_1.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\bin\Debug\Operator_1.exe
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\bin\Debug\Operator_1.pdb
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\obj\Debug\Operator_1.exe
+D:\VisualStudios\IBZ_Übungen_403\Operator_1\obj\Debug\Operator_1.pdb

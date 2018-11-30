@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\2zähler\obj\Debug\2zähler.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\2zähler\obj\Debug\2zähler.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\2zähler\bin\Debug\2zähler.exe.config
+D:\VisualStudios\IBZ_Übungen_403\2zähler\bin\Debug\2zähler.exe
+D:\VisualStudios\IBZ_Übungen_403\2zähler\bin\Debug\2zähler.pdb
+D:\VisualStudios\IBZ_Übungen_403\2zähler\obj\Debug\2zähler.exe
+D:\VisualStudios\IBZ_Übungen_403\2zähler\obj\Debug\2zähler.pdb

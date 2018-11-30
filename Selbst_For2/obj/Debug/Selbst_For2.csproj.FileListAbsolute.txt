@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\obj\Debug\Selbst_For2.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\bin\Debug\Selbst_For2.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\bin\Debug\Selbst_For2.exe
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\bin\Debug\Selbst_For2.pdb
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\obj\Debug\Selbst_For2.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\obj\Debug\Selbst_For2.exe
+D:\VisualStudios\IBZ_Übungen_403\Selbst_For2\obj\Debug\Selbst_For2.pdb

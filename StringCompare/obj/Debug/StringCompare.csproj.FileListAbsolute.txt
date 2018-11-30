@@ -1,0 +1,2 @@
+D:\VisualStudios\IBZ_Übungen_403\StringCompare\obj\Debug\StringCompare.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\StringCompare\obj\Debug\StringCompare.csproj.CoreCompileInputs.cache

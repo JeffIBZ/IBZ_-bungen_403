@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\obj\Debug\KommaZahl.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\VisualStudios\IBZ_Übungen_403\ConsoleApp1\obj\Debug\KommaZahl.csprojResolveAssemblyReference.cache

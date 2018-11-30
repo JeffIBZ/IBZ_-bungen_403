@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\obj\Debug\Selbst_Test.csprojResolveAssemblyReference.cache
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\obj\Debug\Selbst_Test.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\bin\Debug\Selbst_Test.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\bin\Debug\Selbst_Test.exe
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\bin\Debug\Selbst_Test.pdb
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\obj\Debug\Selbst_Test.exe
+D:\VisualStudios\IBZ_Übungen_403\Selbst_Test\obj\Debug\Selbst_Test.pdb

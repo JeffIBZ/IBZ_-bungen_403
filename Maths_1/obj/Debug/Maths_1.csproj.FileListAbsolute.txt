@@ -1,0 +1,7 @@
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\bin\Debug\Maths_1.exe.config
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\bin\Debug\Maths_1.exe
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\bin\Debug\Maths_1.pdb
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\obj\Debug\Maths_1.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\obj\Debug\Maths_1.exe
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\obj\Debug\Maths_1.pdb
+D:\VisualStudios\IBZ_Übungen_403\Maths_1\obj\Debug\Maths_1.csprojResolveAssemblyReference.cache

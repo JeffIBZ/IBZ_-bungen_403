@@ -1,0 +1,6 @@
+D:\VisualStudios\IBZ_Übungen_403\if_selbst\bin\Debug\if_selbst.exe.config
+D:\VisualStudios\IBZ_Übungen_403\if_selbst\bin\Debug\if_selbst.exe
+D:\VisualStudios\IBZ_Übungen_403\if_selbst\bin\Debug\if_selbst.pdb
+D:\VisualStudios\IBZ_Übungen_403\if_selbst\obj\Debug\if_selbst.csproj.CoreCompileInputs.cache
+D:\VisualStudios\IBZ_Übungen_403\if_selbst\obj\Debug\if_selbst.exe
+D:\VisualStudios\IBZ_Übungen_403\if_selbst\obj\Debug\if_selbst.pdb
